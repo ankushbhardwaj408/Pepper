@@ -1,0 +1,25 @@
+.body3{
+
+    padding-top: 50px;
+}
+.text{
+    color:gray;
+}
+.hitech{
+    max-width: 150px;
+}
+.invert {
+    color: lightgray;
+    max-width: 150px;
+}
+.proline {
+    
+    background-color: lightgray;
+    max-width: 150px;
+}
+.logos{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+}
