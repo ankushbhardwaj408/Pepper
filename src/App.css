@@ -72,3 +72,8 @@ box-shadow:10px 10px 10px 10px lightgray;
   width: 300px;
   text-align: start;
 }
+.card div{
+  margin-top: 10px;
+  font-size: large;
+  font-weight: 600;
+}

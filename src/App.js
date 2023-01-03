@@ -75,7 +75,7 @@ function App() {
       </div>
       <div className="cards">
         <div className="card">
-          <EmailIcon></EmailIcon>
+          <EmailIcon style={{ color: "#9d0aff" }}></EmailIcon>
           <div>Email Management</div>
           <p className="para">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit
@@ -84,7 +84,7 @@ function App() {
           </p>
         </div>
         <div className="card">
-          <CalendarTodayIcon></CalendarTodayIcon>
+          <CalendarTodayIcon style={{ color: "#9d0aff" }}></CalendarTodayIcon>
           <div>Campaign Calender</div>
           <p className="para">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit
@@ -93,7 +93,7 @@ function App() {
           </p>
         </div>
         <div className="card">
-          <PersonIcon></PersonIcon>
+          <PersonIcon style={{ color: "#9d0aff" }}></PersonIcon>
           <div>Personal Assistance</div>
           <p className="para">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit
@@ -104,7 +104,7 @@ function App() {
       </div>
       <div className="cards">
         <div className="card">
-          <PaymentIcon></PaymentIcon>
+          <PaymentIcon style={{ color: "#9d0aff" }}></PaymentIcon>
           <div>Payment Feature</div>
           <p className="para">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit
@@ -113,7 +113,7 @@ function App() {
           </p>
         </div>
         <div className="card">
-          <AppsIcon></AppsIcon>
+          <AppsIcon style={{ color: "#9d0aff" }}></AppsIcon>
           <div>Utility Apps</div>
           <p className="para">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit
@@ -122,7 +122,7 @@ function App() {
           </p>
         </div>
         <div className="card">
-          <NotificationsIcon></NotificationsIcon>
+          <NotificationsIcon style={{ color: "#9d0aff" }}></NotificationsIcon>
           <div>Sale Notification</div>
           <p className="para">
             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit
