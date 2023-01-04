@@ -13,6 +13,11 @@ import PersonIcon from "@mui/icons-material/Person";
 import PaymentIcon from "@mui/icons-material/Payment";
 import AppsIcon from "@mui/icons-material/Apps";
 import NotificationsIcon from "@mui/icons-material/Notifications";
+import Footer from "./Footer";
+import Squarecard1 from "./SquareCards/SquareCard1";
+import Squarecard2 from "./SquareCards/SquareCard2";
+
+import Squarecard3 from "./SquareCards/SquareCard3";
 
 function App() {
   const [first, setFirst] = useState([
@@ -131,6 +136,23 @@ function App() {
           </p>
         </div>
       </div>
+      <Squarecard1></Squarecard1>
+
+      <Squarecard2></Squarecard2>
+
+      <Squarecard3></Squarecard3>
+
+      <div className="lowerpara">
+        <div className="lowerpara__header">
+          Dont take our words for it-listen to our clients
+        </div>
+        <div className="lowerpara__text">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit nostrum
+          porro, dolor quo nemo laudantium tempora voluptates aut ipsum qui!
+        </div>
+      </div>
+
+      <Footer></Footer>
     </div>
   );
 }

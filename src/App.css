@@ -1,5 +1,5 @@
 .App {
- height: 400vh;
+
  
   text-align: center;
   background: #fffaff;
@@ -75,5 +75,18 @@ box-shadow:10px 10px 10px 10px lightgray;
 .card div{
   margin-top: 10px;
   font-size: large;
+  font-weight: 600;
+}
+.lowerpara {
+  margin-left: 100px;
+  text-align: start;
+  width: 50%;
+  margin-top: 80px;
+}
+
+.lowerpara__header {
+  /* width: 30%; */
+  text-align: start;
+  font-size: 50px;
   font-weight: 600;
 }
